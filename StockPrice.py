@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 13 23:17:19 2021
-
-@author: SAMAR
-"""
-
 import pandas as pd
 import pandas_datareader.data as web
 import matplotlib.pyplot as plt
